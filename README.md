@@ -1,2 +1,2 @@
-# eightrips
-8trips challenge
+# Eightrips
+Documentation comming soon.. 🌴
